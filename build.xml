@@ -14,8 +14,8 @@
     <property name="doc.dir"      location="doc" />
     <property name="lib.dir"      location="lib" />
     <property name="src.dir"      location="src" />
-    <property name="src.main.dir"      location="src/main/java" />
-    <property name="src.test.dir"      location="src/test/java" />
+    <property name="src.main.dir"      location="src/main/com" />
+    <property name="src.test.dir"      location="src/test/com" />
     <property name="src.test.res.dir"  location="src/test/resources" />
     <property name="build.classes.dir" location="build/classes" />
     <property name="build.tests.dir"   location="build/tests" />
