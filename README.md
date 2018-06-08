@@ -30,3 +30,7 @@ Upgraded version of [simple-feed-parser](https://github.com/ernieyu/simple-feed-
             e.printStackTrace();
         }
 ```
+
+**Get started**
+
+[JAR](https://github.com/GrigoreAlexandru/Modern-feed-parser/tree/1.0.0)
